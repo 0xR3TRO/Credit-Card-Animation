@@ -109,3 +109,7 @@ The architecture is based on a simple client-server model, where:
 
 - **Application Development:** Based on hours worked or team of developers.
 - **Maintenance Costs:** Servers, potential fees for external services, technical support.
+
+---
+
+[Polish](Documents/README[PL].md)

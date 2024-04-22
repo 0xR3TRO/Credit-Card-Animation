@@ -109,3 +109,7 @@ Architektura oparta jest na prostym modelu klient-serwer, gdzie:
 
 - **Rozwój aplikacji:** Wg godzin pracy lub zespołu programistów.
 - **Koszty utrzymania:** Serwery, ewentualne opłaty za usługi zewnętrzne, wsparcie techniczne.
+
+---
+
+[English](/README.md)
